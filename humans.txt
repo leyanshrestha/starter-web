@@ -1,7 +1,13 @@
+<<<<<<< HEAD
  change again from remote repo text 
 adding trouble 
+=======
+
+ adding trouble 
+>>>>>>> mybranch
 Leyan change from master# humanstxt.org/
-# The humans responsible & technology colophon
+
+Change from mybranch# humanstxt.org/
 
 # TEAM
 
