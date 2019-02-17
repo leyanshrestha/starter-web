@@ -1,12 +1,9 @@
-<<<<<<< HEAD
  change again from remote repo text 
 adding trouble 
-=======
 
  adding trouble 
->>>>>>> mybranch
 Leyan change from master# humanstxt.org/
-
+change maded for stash
 Change from mybranch# humanstxt.org/
 
 # TEAM
