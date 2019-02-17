@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+Thanks for git rebase
     <name>
 
 # TECHNOLOGY COLOPHON
